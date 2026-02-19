@@ -1,0 +1,4 @@
+Technical Requirements:
+- HTML5 support
+- CSS3 support
+- JavaScript enabled in browser
